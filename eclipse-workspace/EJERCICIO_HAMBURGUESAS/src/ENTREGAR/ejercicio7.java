@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class ejercicio7 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// keeeeeeeeeeee
 		//DECLARAMOS VARIABLES
 		Scanner sc = new Scanner(System.in);
 		String[] burguers = {"Mexicana","Alioli","Cheeseburguer","Barbacoa"};
